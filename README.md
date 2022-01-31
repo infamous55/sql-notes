@@ -1,6 +1,6 @@
 # SQL Notes
 
-This repository contains my personal notes on the SQL language.
+This repository contains my personal notes on SQL.
 
 ### Contents:
 
